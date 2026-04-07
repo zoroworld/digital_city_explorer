@@ -8,7 +8,7 @@ Logic on Haversine formula
 
 The Haversine formula calculates the great-circle distance (shortest distance over the Earth’s surface) between two points given their latitude and longitude in degrees.
 
-## Application and db used
+## Application and database
   - fastApi
   - sqlite
 
