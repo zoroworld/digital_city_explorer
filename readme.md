@@ -80,8 +80,8 @@ Relation with class
 
 - Clone the project
 
-        git clone <your-repo-url>
-        cd pois_app
+        git clone https://github.com/zoroworld/digital_city_explorer.git
+        cd digital_city_explorer
         
 - create python virtual enviroment
 
