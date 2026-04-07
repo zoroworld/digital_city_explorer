@@ -65,13 +65,15 @@ Relation with class
         5. /api/v1/pois?lat=22.5726&lng=88.3639&radius=5
 
 2. Endpoint 
+        
+        GET pois/{pois_id}
 
         Discription
         Get POI by ID
 
 
         Example:
-        http://127.0.0.1:8000/api/v1/pois/2
+        /api/v1/pois/2
 
 
 ## Setup
