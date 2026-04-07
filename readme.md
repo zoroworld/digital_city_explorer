@@ -102,6 +102,7 @@ Relation with class
         uvicorn app.main:app --reload
 
 - Then open sqlite import the sql file pois.db.sql and  not make new database.
+- then close sqlite message come and clicked saved it then the data store
 
 - the data will imported in sqlite and you can see apis.
 
